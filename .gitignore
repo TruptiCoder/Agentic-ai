@@ -1,0 +1,81 @@
+# -----------------------------
+# Python Cache Files
+# -----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# -----------------------------
+# Virtual Environment
+# -----------------------------
+venv/
+env/
+ENV/
+.venv/
+
+# -----------------------------
+# Environment Variables / Secrets
+# IMPORTANT: Never upload API keys
+# -----------------------------
+.env
+.env.*
+
+# -----------------------------
+# Jupyter Notebook Checkpoints
+# -----------------------------
+.ipynb_checkpoints/
+
+# -----------------------------
+# Python Build Files
+# -----------------------------
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# -----------------------------
+# Logs
+# -----------------------------
+*.log
+
+# -----------------------------
+# IDE / Editor Files
+# -----------------------------
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# -----------------------------
+# OS Files
+# -----------------------------
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# -----------------------------
+# Temporary Files
+# -----------------------------
+temp/
+tmp/
+*.tmp
+
+# -----------------------------
+# Testing / Coverage
+# -----------------------------
+.coverage
+.pytest_cache/
+htmlcov/
+
+# -----------------------------
+# LangChain / AI Generated Files
+# -----------------------------
+chroma_db/
+vectorstore/
+faiss_index/
