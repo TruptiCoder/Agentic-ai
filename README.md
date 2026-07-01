@@ -72,8 +72,8 @@ My goals for this journey:
 ## 📚 Topics Covered
 
 ### 🚀 Module 1: Foundations
-- [ ] Python Refresher
-- [ ] Environment Setup
+- [x] Python Refresher
+- [x] Environment Setup
 - [ ] APIs & API Keys
 
 ### 🔗 Module 2: LangChain
