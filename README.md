@@ -37,7 +37,7 @@ Through this course, I’ll explore:
 
 My goals for this journey:
 
-- [ ] Understand the fundamentals of **Agentic AI**
+- [x] Understand the fundamentals of **Agentic AI**
 - [ ] Learn **LangChain** from basics to advanced
 - [ ] Build workflows using **LangGraph**
 - [ ] Create AI agents with **memory**
@@ -74,7 +74,7 @@ My goals for this journey:
 ### 🚀 Module 1: Foundations
 - [x] Python Refresher
 - [x] Environment Setup
-- [ ] APIs & API Keys
+- [x] APIs & API Keys
 
 ### 🔗 Module 2: LangChain
 - [ ] Prompt Templates
@@ -114,8 +114,8 @@ My goals for this journey:
 
 | Module | Status |
 |--------|--------|
-| 🚀 Foundations | 🟨 In Progress |
-| 🔗 LangChain | ⬜ Not Started |
+| 🚀 Foundations | ✅ In Progress |
+| 🔗 LangChain | 🟨 Not Started |
 | 🕸️ LangGraph | ⬜ Not Started |
 | 📚 RAG Systems | ⬜ Not Started |
 | 🤖 AI Agents | ⬜ Not Started |
@@ -133,7 +133,7 @@ My goals for this journey:
 
 ```txt
 Level 1: Become an AI Explorer 🧭
-⬜ Learn the basics
+🟨 Learn the basics
 
 Level 2: Become an AI Builder ⚒️
 ⬜ Build intelligent workflows
